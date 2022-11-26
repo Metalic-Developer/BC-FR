@@ -1,17 +1,4 @@
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.title {
-  color: rt;
-}
-
-/* * {
+ * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -o-box-sizing: border-box;
@@ -25,10 +12,6 @@ body {
 
 .D {
   background-color: aqua;
-  width: 1102px;
-  height: 399px;
-  margin-top: -21px;
-  margin-left: -8px;
 }
 
 .RT {
@@ -37,7 +20,7 @@ body {
 }
 
 .Y {
-  background-image: url("Imgs/6862810--temple-in-nakronphanom-thailand-.jpg");
+  background-image: url("../Imgs/6862810--temple-in-nakronphanom-thailand-.jpg");
   background-size: 500px;
   background-repeat: no-repeat;
   width: 46%;
@@ -51,11 +34,9 @@ body {
 
 .Mutlup {
   background-color: aqua;
-  width: 1352px;
+  width: 1036px;
   height: 43px;
   text-align: center;
-  margin-top: -21px;
-  margin-left: -8px;
 }
 
 .A {
@@ -143,7 +124,7 @@ caption.UU {
 }
 caption.UU {
     font-size: 31px;
-} */
+}
 
 /*
 background-image: linear-gradient(
